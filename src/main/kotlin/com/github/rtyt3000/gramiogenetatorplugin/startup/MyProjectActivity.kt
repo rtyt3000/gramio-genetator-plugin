@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.startup
+package com.github.rtyt3000.gramiogenetatorplugin.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
